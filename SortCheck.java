@@ -25,11 +25,11 @@ import java.util.*;
         }
         if(status==1)
         {
-        System.out.println("No");
+        System.out.println("no");
         }
         else
         {
-        System.out.println("Yes");
+        System.out.println("yes");
         }
      }
    }  
